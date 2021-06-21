@@ -21,13 +21,13 @@
 ## Homepage
 
 
-````ts
+````tsx
 interface {
   texto: string,
 }
 
 
-function myComponent() {
+function MyComponent() {
   return(
     <>
       <h1>Exemplo de Componente</h1>
@@ -39,7 +39,7 @@ function myComponent() {
 ## Exemplo de Uso do Componente
 <p>Esse é componente visa trazer facilidade no uso de bla bla bla. </p>
  
-````ts
+````tsx
   <MyComponent texto=""/>
 ````
 
